@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T07:40:50.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oUNqAfVwnpiNArBGeijp" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-27T07:43:55.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="w4FzgCfmVpy3qg2DRPXr" version="21.1.0" type="github" pages="2">
   <diagram name="Data Ingestion Framework" id="WuEBKlYeaK_HnunUA6jp">
-    <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,6 +434,9 @@
               <mxPoint x="1598" y="590.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WooaXLUfyBN1ZxbWpu8N-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bLmqjdwzgBOBhjylETbR-11" target="bLmqjdwzgBOBhjylETbR-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bLmqjdwzgBOBhjylETbR-11" value="Processed&lt;br&gt;Zone" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;labelBackgroundColor=#E6E6E6;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1439" y="334" width="40.63" height="32.5" as="geometry" />
