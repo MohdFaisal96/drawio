@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T11:38:46.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vRdLCaKASo6sjF6zUccq" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-27T11:39:19.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5_NRtnHg1DcoxaBU_1F1" version="21.1.1" type="github" pages="3">
   <diagram name="Data Ingestion Framework" id="WuEBKlYeaK_HnunUA6jp">
     <mxGraphModel dx="2049" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -797,7 +797,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-21" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#B1FF8A;fontSize=12;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
-          <mxGeometry x="2540" y="1350" width="1080" height="300" as="geometry" />
+          <mxGeometry x="2570" y="1350" width="1050" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-22" value="DataBricks&amp;nbsp;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/analytics/Azure_Databricks.svg;labelBackgroundColor=#E6E6E6;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
           <mxGeometry x="2590" y="1352.38" width="40.72" height="46.15" as="geometry" />
@@ -1366,7 +1366,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZzJFnbDEYP2jmkK8cDso-0" value="Token" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;labelBackgroundColor=none;labelBorderColor=none;fontSize=15;fontColor=#FF3333;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
-          <mxGeometry x="2601.66" y="1101.69" width="48.12" height="50" as="geometry" />
+          <mxGeometry x="2590" y="1180" width="48.12" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZzJFnbDEYP2jmkK8cDso-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="ZzJFnbDEYP2jmkK8cDso-2" target="4JgVIXBhFd2OKzmGIWJK-6">
           <mxGeometry relative="1" as="geometry" />
