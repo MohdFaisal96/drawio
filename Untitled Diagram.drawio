@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T12:05:07.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZJ_Gwh-sOEhXzTIx3Wfx" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-27T12:06:32.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IhhHwh1M_l8VWkjBM8rn" version="21.1.1" type="github" pages="3">
   <diagram name="Data Ingestion Framework" id="WuEBKlYeaK_HnunUA6jp">
     <mxGraphModel dx="1909" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -715,7 +715,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
-    <mxGraphModel dx="1400" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-0" />
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-1" parent="9WSbSmO5Lrjr3bgkUgIT-0" />
@@ -1399,6 +1399,15 @@
         </mxCell>
         <mxCell id="ZzJFnbDEYP2jmkK8cDso-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="ZzJFnbDEYP2jmkK8cDso-11" target="ZzJFnbDEYP2jmkK8cDso-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoBULPdV6pmOxp_5gWvg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="ZzJFnbDEYP2jmkK8cDso-11" target="9WSbSmO5Lrjr3bgkUgIT-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2460" y="1650" />
+              <mxPoint x="2460" y="1270" />
+              <mxPoint x="2154" y="1270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZzJFnbDEYP2jmkK8cDso-11" value="Logging" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
           <mxGeometry x="2724.94" y="1629" width="90" height="42.27" as="geometry" />
