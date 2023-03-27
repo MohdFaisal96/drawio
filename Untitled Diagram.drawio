@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T11:32:15.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7eh2-HTTh5pVg7FsSZ7i" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-27T11:35:22.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BuLqs5-VsfHEH21Lm0iJ" version="21.1.1" type="github" pages="3">
   <diagram name="Data Ingestion Framework" id="WuEBKlYeaK_HnunUA6jp">
     <mxGraphModel dx="2049" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -715,7 +715,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
-    <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-0" />
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-1" parent="9WSbSmO5Lrjr3bgkUgIT-0" />
@@ -848,7 +848,7 @@
           <mxGeometry x="4002" y="1352.38" width="114.12" height="50.35" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-36" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;fontSize=13;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
-          <mxGeometry x="1660" y="320" width="2020" height="240" as="geometry" />
+          <mxGeometry x="1615" y="310" width="2020" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-37" value="WKD" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAmCAMAAACMNFloAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJSUExURQAAAABYnwBanxqZyA1zqABanw1yqwBbogBboiCp1wBcogRmqR2h0Q94rRF8rxF9sBF+sBF+sRGAsSGr1xWFtRaHtxeJuReNuxiQvxqTwRuWwxyZxRybyR2dyh6gzB6hzR6jzx+l0CCn0yGp1SGr1iKs1yKu2COu2SOv2ia23xeSxxaJtheMuhmPvBqRvhuUwRyYxB2bxh6eyh6gyx6hzR+jziCm0SGo0iGq1CKs1iOu2CSw2iSy2ySz3CW03ia23ye44Ce54QBboQNipglwsAlxsAx3tQx4tRBlpxrD8hySuhyTuhyUuxyUvBydzx2VvR2Wvh6Xvx6YwB6ZwR6awR+bwh+cwx+dxB+exSCfxiCgxyGhyCGiyCGjySGkyiKlyyKmzCKs2SOnzSOoziOpzyOqzySr0CSs0SSt0iSu0yWv1CWw1SWx1Say1iay1yaz2Ce02Se12Se22ii32yi43Ci53Sm63im73yq84Cq94Cq+4Sq/5Su/4iu/4yvA5CvB5CzC5SzD5izE5y3F6C3G6C3H6S7I6i7I6y7J6y/K7C/L7TDM7jDN7zDO7zGu0jHP8DHQ8THR8jKy1TfB4jjD5DnG5zzN7UGr2ETD4kTD60bL6ky21UzD6k6/3VDD4Fm51l7J5GDP6mHR7GLU7me+2WfB22vM5XDZ8YXU6YbW6ofY7Ing847B3pLW6Zbi85/B3J/c7aHi8aPn9rDq97Hr+Lrl8bzr9sns9dT0/Nbv9tfz+dfz+tf0+uP0+eT2++X4/PH5/PH6/fL6/fL7/fL7/v///6gLYIoAAABCdFJOUwAgMDxkgIiPn6avtLjX3Nzc3Nzh5ubm5ubm5ubm5ubm5ubm5ubm5ubm5u3v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7wyvRVYAAAAJcEhZcwAAFxEAABcRAcom8z8AAAHXSURBVDhP1dJnX9NQFMfx4qqKuHAguBluce+NCshQQeu2ilpqnW2paNWqFaUiCLjBhXsLIm5ARO/74n+T0+aYxBfQ74Pc5HN+OY+uJap1s/b+lzWGJqb6rjKw0siMzOuyvwlVlvpDTxoayfzO/XeNKsozJ/frY9Sdcp2M/BoTtbWTTPOMvRTorUQeu5qsIWtPV+lUkxXI4yukq/9VqVmOfGIodMXE7Rb5VFZFLEM+odxU86fykN5S5GmXzLwVLy8bLEGeetGo7OnfX2VGi5GnXNAJBoP1f8QHHHoyTw6c487DrVYhnsgXDosWIR/v15xR3PyCy/NTenyWBBQLkY8rJSfDPqq3TYgfN05JtMvvX4B8rE86oXlDsWi/iy/apZiPfIzH4+UaOqnubPCWcD7fPOSjjzNut/vha/gqxO8XHr25yEcdCTuqQf7qmMEc5CNdRg+EaDoUdjhiNvIkh8NRzDmdzvfi83UccJBxzUKeuI/br2j7fk0eBzhsnYl8xO4IO3necc9u38MVKWYgT9iu2qF59GwntyssHflwG2zhtnLbmOnIhxUUcpu4zZzNNg350PWaDdxGrkCainzIOpLD5XJ5ZAryHnH9YYCpgTAIBqt6IY9WFksX6MMFHe3ml+kAAAAASUVORK5CYII=;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
           <mxGeometry x="1854" y="2115.56" width="46" height="38" as="geometry" />
@@ -1358,6 +1358,9 @@
             <mxPoint x="2750" y="872" as="sourcePoint" />
             <mxPoint x="2840.0000000000005" y="872" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzJFnbDEYP2jmkK8cDso-0" value="Token" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;labelBackgroundColor=none;labelBorderColor=none;fontSize=15;fontColor=#FF3333;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
+          <mxGeometry x="2601.66" y="1101.69" width="48.12" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
