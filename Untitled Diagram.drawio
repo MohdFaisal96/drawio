@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T17:41:01.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="u1kO0iGt60NijCojd-VT" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-28T17:49:02.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BjWaxmaU4m9m1uLjqS5I" version="21.1.1" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
-    <mxGraphModel dx="4703" dy="5847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2352" dy="4573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <object label="" id="9WSbSmO5Lrjr3bgkUgIT-0">
           <mxCell />
@@ -448,15 +448,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="11F2FWQDtXmnBcnYMyNv-11" value="Normal Flow" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="11F2FWQDtXmnBcnYMyNv-10" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="11F2FWQDtXmnBcnYMyNv-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1948.78" y="428.8900000000001" as="sourcePoint" />
-            <mxPoint x="2042.2799999999997" y="428.8900000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11F2FWQDtXmnBcnYMyNv-14" value="Reprocessing Flow" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="11F2FWQDtXmnBcnYMyNv-13" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="11F2FWQDtXmnBcnYMyNv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="11F2FWQDtXmnBcnYMyNv-16" edge="1">
