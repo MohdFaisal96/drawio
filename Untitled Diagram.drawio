@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T07:05:16.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-SiU_mc5dWX4GKjFjDsm" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-28T07:08:46.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5kZcJvyIGO3BwivYFwTU" version="21.1.1" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
     <mxGraphModel dx="2607" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="1620" y="1920" width="1180" height="440" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-13" value="Azure Data Lake Gen2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2848" y="1870" width="195" height="20" as="geometry" />
+          <mxGeometry x="2546" y="1870" width="195" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-14" value="YYYY" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#2072B8;labelBackgroundColor=#E6E6E6;fontSize=9;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1730.43" y="2075.47" width="30" height="28" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry x="1650" y="1441.73" width="148.57" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-97" value="Subnet **.**.**.**/28" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;labelBorderColor=default;labelBackgroundColor=none;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2848" y="1890" width="195" height="20" as="geometry" />
+          <mxGeometry x="2546" y="1890" width="195" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-99" value="YYYY" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#2072B8;labelBackgroundColor=#E6E6E6;fontSize=9;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2221" y="2179.5" width="30" height="28" as="geometry" />
