@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T12:45:00.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_ZNL2nSffwBm3o3w47CP" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-28T12:47:28.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2RuzGXgwWG0dtgzuhLJ7" version="21.1.1" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1489,9 +1489,6 @@
         <mxCell id="QweXdnzPAgt1LjOa1yoH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="QweXdnzPAgt1LjOa1yoH-14" target="QweXdnzPAgt1LjOa1yoH-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Br6PWDhLpbqt9zYRuXpM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=-0.076;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="QweXdnzPAgt1LjOa1yoH-14" target="QweXdnzPAgt1LjOa1yoH-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QweXdnzPAgt1LjOa1yoH-14" value="EDZ Inbound&lt;br&gt;WKD/YYYY/MM/DD/WKD_*" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;labelBackgroundColor=#E6E6E6;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1849.56" y="1940" width="40.63" height="32.5" as="geometry" />
         </mxCell>
@@ -1722,7 +1719,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QweXdnzPAgt1LjOa1yoH-60" value="&lt;b&gt;Option 1 &lt;/b&gt;- Store Scripts on ADLS and Trigger from Data bricks.&lt;br&gt;&lt;b&gt;Options 2 &lt;/b&gt;- Run the Scripts from Gitlab" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2906.48" y="2609.47" width="240" height="60" as="geometry" />
+          <mxGeometry x="2910.63" y="2500" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QweXdnzPAgt1LjOa1yoH-61" value="File Archival ? New container or in folders?" style="text;html=1;strokeColor=default;fillColor=#FF9999;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2601" y="2490" width="130" height="50" as="geometry" />
@@ -1730,14 +1727,16 @@
         <mxCell id="QweXdnzPAgt1LjOa1yoH-62" value="Reprocessing Container Required ?" style="text;html=1;strokeColor=default;fillColor=#FF9999;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2601" y="2560" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Br6PWDhLpbqt9zYRuXpM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="2050" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Br6PWDhLpbqt9zYRuXpM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="2050" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Br6PWDhLpbqt9zYRuXpM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="2050" width="120" height="60" as="geometry" />
+        <mxCell id="Br6PWDhLpbqt9zYRuXpM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;entryX=0.566;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QweXdnzPAgt1LjOa1yoH-14" target="QweXdnzPAgt1LjOa1yoH-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1890" y="1956" as="sourcePoint" />
+            <mxPoint x="2830" y="1960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2350" y="1956" />
+              <mxPoint x="2350" y="1960" />
+              <mxPoint x="2893" y="1960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
