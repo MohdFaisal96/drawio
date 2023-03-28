@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T17:35:58.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q0G-i2c3tJtlRxUmFpOo" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-28T17:39:07.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JcX01djD4fHUn5_GmrE5" version="21.1.1" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
     <mxGraphModel dx="3136" dy="4998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
           <mxCell />
         </object>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-1" parent="9WSbSmO5Lrjr3bgkUgIT-0" />
+        <mxCell id="4b2_w8jiBTe39ZsDuLXi-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;gradientColor=none;gradientDirection=north;fillColor=#FFFCF2;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
+          <mxGeometry x="1260" y="570" width="1940" height="630" as="geometry" />
+        </mxCell>
         <mxCell id="6QKub-tiGAQT8PIADN0G-15" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2596.66" y="635.79" width="546" height="520" as="geometry" />
         </mxCell>
@@ -39,7 +42,7 @@
           <mxGeometry x="1332.16" y="637" width="1180" height="520" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-13" value="Azure Data Lake Gen2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2298.16" y="577" width="195" height="20" as="geometry" />
+          <mxGeometry x="2274.42" y="580" width="195" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Df-2wTdwd4sgTRfSAeIq-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="9WSbSmO5Lrjr3bgkUgIT-21" target="ZzJFnbDEYP2jmkK8cDso-0" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -265,7 +268,7 @@
           <mxGeometry x="2846.0499999999997" y="200.62000000000012" width="148.57" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-97" value="Subnet **.**.**.**/28" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;labelBorderColor=default;labelBackgroundColor=none;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2298.16" y="597" width="195" height="20" as="geometry" />
+          <mxGeometry x="2274.42" y="600" width="195" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-146" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1652.3500000000001" y="666.9999999999998" width="29" height="27.06" as="geometry" />
@@ -463,9 +466,6 @@
         </mxCell>
         <mxCell id="11F2FWQDtXmnBcnYMyNv-16" value="&lt;b&gt;Option 1 &lt;/b&gt;- Store Scripts on DBFS mount of ADLS.&lt;br&gt;&lt;b&gt;Options 2 &lt;/b&gt;- Run the Scripts from Gitlab" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2635.92" y="1287" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="11F2FWQDtXmnBcnYMyNv-21" value="File Archival ? New container or in folders?" style="text;html=1;strokeColor=default;fillColor=#FF9999;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2274.42" y="1187.25" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="11F2FWQDtXmnBcnYMyNv-22" value="Reprocessing Container Required ?" style="text;html=1;strokeColor=default;fillColor=#FF9999;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2274.42" y="1257.25" width="130" height="50" as="geometry" />
