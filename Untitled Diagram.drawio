@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T14:57:45.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-8dKT8uJzXRPnC3U78wn" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-28T15:00:39.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="r5H8hMVcmDlSUHBAVUFl" version="21.1.1" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
-    <mxGraphModel dx="3500" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <object label="" id="9WSbSmO5Lrjr3bgkUgIT-0">
           <mxCell />
@@ -442,17 +442,17 @@
         </mxCell>
         <mxCell id="11F2FWQDtXmnBcnYMyNv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="11F2FWQDtXmnBcnYMyNv-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3057.71" y="2590" as="targetPoint" />
+            <mxPoint x="3003.76" y="2460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="11F2FWQDtXmnBcnYMyNv-16" value="&lt;b&gt;Option 1 &lt;/b&gt;- Store Scripts on DBFS mount of ADLS.&lt;br&gt;&lt;b&gt;Options 2 &lt;/b&gt;- Run the Scripts from Gitlab" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2937.71" y="2710" width="240" height="60" as="geometry" />
+          <mxGeometry x="2883.76" y="2580" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="11F2FWQDtXmnBcnYMyNv-21" value="File Archival ? New container or in folders?" style="text;html=1;strokeColor=default;fillColor=#FF9999;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2576.21" y="2610.25" width="130" height="50" as="geometry" />
+          <mxGeometry x="2522.26" y="2480.25" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="11F2FWQDtXmnBcnYMyNv-22" value="Reprocessing Container Required ?" style="text;html=1;strokeColor=default;fillColor=#FF9999;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2576.21" y="2680.25" width="130" height="50" as="geometry" />
+          <mxGeometry x="2522.26" y="2550.25" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m4AKXmgb769KT6wCsUPz-0" value="Azure VPN Gateway" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VPN_Gateway.svg;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2412.04" y="1310.8300000000002" width="27.96" height="31.06" as="geometry" />
