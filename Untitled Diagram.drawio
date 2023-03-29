@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T10:54:21.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eicjP24So7l6GwSQ9Xmv" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-29T10:55:54.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="r1ize3G78BtOOr4T00W3" version="21.1.1" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
-    <mxGraphModel dx="3606" dy="4869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3187" dy="4998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <object label="" id="9WSbSmO5Lrjr3bgkUgIT-0">
           <mxCell />
@@ -181,7 +181,7 @@
         <mxCell id="Df-2wTdwd4sgTRfSAeIq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="9WSbSmO5Lrjr3bgkUgIT-49" target="Df-2wTdwd4sgTRfSAeIq-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jba7oKKI64xrGn0f97RL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="9WSbSmO5Lrjr3bgkUgIT-49" target="jba7oKKI64xrGn0f97RL-1">
+        <mxCell id="jba7oKKI64xrGn0f97RL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="9WSbSmO5Lrjr3bgkUgIT-49" target="jba7oKKI64xrGn0f97RL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-49" value="EDZ Inbound" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;labelBackgroundColor=#E6E6E6;whiteSpace=wrap;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
@@ -279,7 +279,7 @@
             <mxPoint x="2524.842169999999" y="878.315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6QKub-tiGAQT8PIADN0G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" edge="1" source="jba7oKKI64xrGn0f97RL-1">
+        <mxCell id="6QKub-tiGAQT8PIADN0G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="jba7oKKI64xrGn0f97RL-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2458.7800000000007" y="772.7647058823532" as="sourcePoint" />
             <mxPoint x="2750.2429999999995" y="881.8258399999995" as="targetPoint" />
@@ -515,16 +515,10 @@
           <mxGeometry x="1912.3700000000001" y="822.5" width="46.21" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="Df-2wTdwd4sgTRfSAeIq-24" value="SOR-X" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=9;image=img/lib/azure2/general/Folder_Blank.svg;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#2072B8;strokeColor=none;shadow=0;dashed=0;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="1468.78" y="896.3399999999999" width="46" height="37.33" as="geometry" />
+          <mxGeometry x="1481.66" y="925.67" width="46" height="37.33" as="geometry" />
         </mxCell>
         <mxCell id="Df-2wTdwd4sgTRfSAeIq-26" value="WKD" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=9;image=img/lib/azure2/general/Folder_Blank.svg;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#2072B8;strokeColor=none;shadow=0;dashed=0;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="1466.66" y="822.5" width="46.21" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Df-2wTdwd4sgTRfSAeIq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="Df-2wTdwd4sgTRfSAeIq-27" target="Df-2wTdwd4sgTRfSAeIq-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jba7oKKI64xrGn0f97RL-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="Df-2wTdwd4sgTRfSAeIq-27" target="Df-2wTdwd4sgTRfSAeIq-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1481.66" y="839.62" width="46.21" height="37.5" as="geometry" />
         </mxCell>
         <object label="Landing" tooltip="" id="Df-2wTdwd4sgTRfSAeIq-27">
           <mxCell style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Container.svg;labelBackgroundColor=#E6E6E6;ic.svg;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
@@ -684,10 +678,25 @@
           <mxGeometry x="2505.9700000000003" y="694.06" width="57.5" height="57.5" as="geometry" />
         </mxCell>
         <object label="EDZ&amp;nbsp; Logs" tooltip="" id="jba7oKKI64xrGn0f97RL-1">
-          <mxCell style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Container.svg;labelBackgroundColor=#E6E6E6;ic.svg;labelBackgroundColor=#E6E6E6;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
+          <mxCell style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Container.svg;labelBackgroundColor=#E6E6E6;ic.svg;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
             <mxGeometry x="2638.13" y="756.4699999999998" width="40.63" height="32.5" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="qjNMnZGJxdSfJxyeNURq-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.461;exitY=1.227;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.077;entryY=0.598;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="Df-2wTdwd4sgTRfSAeIq-27" target="Df-2wTdwd4sgTRfSAeIq-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1690" y="930" as="sourcePoint" />
+            <mxPoint x="1740" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1445" y="948" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qjNMnZGJxdSfJxyeNURq-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" target="Df-2wTdwd4sgTRfSAeIq-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1446.66" y="870" as="sourcePoint" />
+            <mxPoint x="1476.66" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
