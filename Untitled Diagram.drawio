@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T11:37:53.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1FcW7av4irOKxEqCelFd" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-29T11:41:03.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GfeE8Pt8HZmeIX5SAv_C" version="21.1.1" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
     <mxGraphModel dx="2295" dy="4298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -274,27 +274,34 @@
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="jba7oKKI64xrGn0f97RL-23" target="4JgVIXBhFd2OKzmGIWJK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4JgVIXBhFd2OKzmGIWJK-1" value="Snowflake Connect" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
+        <mxCell id="4JgVIXBhFd2OKzmGIWJK-1" value="Read_File" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1732.5800000000002" y="198.35000000000014" width="107" height="42.27" as="geometry" />
         </mxCell>
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="jba7oKKI64xrGn0f97RL-24" target="4JgVIXBhFd2OKzmGIWJK-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jba7oKKI64xrGn0f97RL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;exitX=0.305;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="9WSbSmO5Lrjr3bgkUgIT-27" target="4JgVIXBhFd2OKzmGIWJK-2">
+        <mxCell id="jba7oKKI64xrGn0f97RL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;exitX=0.305;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="9WSbSmO5Lrjr3bgkUgIT-27" target="4JgVIXBhFd2OKzmGIWJK-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1394" y="520" />
-              <mxPoint x="2060" y="520" />
+              <mxPoint x="1786" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JgVIXBhFd2OKzmGIWJK-2" value="Read_File" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
+        <mxCell id="4JgVIXBhFd2OKzmGIWJK-2" value="Write Parquet" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2010.03" y="198.35000000000014" width="100" height="42.27" as="geometry" />
         </mxCell>
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-4" target="4JgVIXBhFd2OKzmGIWJK-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4JgVIXBhFd2OKzmGIWJK-4" value="Get Date" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
+        <mxCell id="jba7oKKI64xrGn0f97RL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-4" target="9WSbSmO5Lrjr3bgkUgIT-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2350" y="344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4JgVIXBhFd2OKzmGIWJK-4" value="Load to SnowFlake" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2300" y="198.35000000000014" width="100" height="42.27" as="geometry" />
         </mxCell>
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-6" target="4JgVIXBhFd2OKzmGIWJK-1" edge="1">
@@ -303,8 +310,8 @@
         <mxCell id="jba7oKKI64xrGn0f97RL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-6" target="Df-2wTdwd4sgTRfSAeIq-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1636" y="550" />
-              <mxPoint x="2799" y="550" />
+              <mxPoint x="1636" y="540" />
+              <mxPoint x="2799" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -314,15 +321,15 @@
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-8" target="4JgVIXBhFd2OKzmGIWJK-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jba7oKKI64xrGn0f97RL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-8" target="Df-2wTdwd4sgTRfSAeIq-3">
+        <mxCell id="jba7oKKI64xrGn0f97RL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-2" target="Df-2wTdwd4sgTRfSAeIq-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2493" y="560" />
+              <mxPoint x="2060" y="560" />
               <mxPoint x="1892" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JgVIXBhFd2OKzmGIWJK-8" value="Write Parquet" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
+        <mxCell id="4JgVIXBhFd2OKzmGIWJK-8" value="RAW" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2442.9800000000005" y="198.35000000000014" width="100" height="42.27" as="geometry" />
         </mxCell>
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-10" value="ABC Check" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
@@ -668,7 +675,7 @@
             <mxPoint x="2120" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jba7oKKI64xrGn0f97RL-24" value="Read_File" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
+        <mxCell id="jba7oKKI64xrGn0f97RL-24" value="ABC Check" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
           <mxGeometry x="2149.5" y="198.35000000000014" width="100" height="42.27" as="geometry" />
         </mxCell>
         <mxCell id="jba7oKKI64xrGn0f97RL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-1" target="jba7oKKI64xrGn0f97RL-23">
@@ -677,7 +684,7 @@
             <mxPoint x="2010" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jba7oKKI64xrGn0f97RL-23" value="Snowflake Connect" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
+        <mxCell id="jba7oKKI64xrGn0f97RL-23" value="Get Date" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
           <mxGeometry x="1871.7400000000002" y="198.35000000000014" width="107" height="42.27" as="geometry" />
         </mxCell>
       </root>
