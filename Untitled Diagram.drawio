@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T12:22:05.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mS8EhrgNFN4XNNWuW7cR" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-29T12:23:14.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MRmvsCX2t3eL9r2xpTWL" version="21.1.1" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
     <mxGraphModel dx="1195" dy="3937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
         <mxCell id="jba7oKKI64xrGn0f97RL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="jba7oKKI64xrGn0f97RL-22" target="4JgVIXBhFd2OKzmGIWJK-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4JgVIXBhFd2OKzmGIWJK-0" value="SnowFlake Connect" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
+        <mxCell id="4JgVIXBhFd2OKzmGIWJK-0" value="Snowflake Connect" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=8 8;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1774.69" y="-2170.52" width="79.28" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="jba7oKKI64xrGn0f97RL-23" target="4JgVIXBhFd2OKzmGIWJK-2" edge="1">
@@ -640,7 +640,7 @@
         <mxCell id="jba7oKKI64xrGn0f97RL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="jba7oKKI64xrGn0f97RL-21" target="4JgVIXBhFd2OKzmGIWJK-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jba7oKKI64xrGn0f97RL-21" value="&amp;nbsp;ADLS Authentication" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
+        <mxCell id="jba7oKKI64xrGn0f97RL-21" value="&amp;nbsp;ADLS Authentication" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=8 8;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1659.77" y="-2176.38" width="79.28" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jba7oKKI64xrGn0f97RL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-0" target="jba7oKKI64xrGn0f97RL-22" edge="1">
