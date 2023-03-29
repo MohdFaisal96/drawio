@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T11:41:03.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GfeE8Pt8HZmeIX5SAv_C" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-29T11:45:53.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="N6Z9CsUQjKqnUq55Gafh" version="21.1.1" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
     <mxGraphModel dx="2295" dy="4298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -42,10 +42,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-21" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#B1FF8A;fontSize=12;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="1240" y="70" width="1490" height="382" as="geometry" />
+          <mxGeometry x="1240" y="70" width="1360" height="382" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-22" value="DataBricks&amp;nbsp;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/analytics/Azure_Databricks.svg;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2480" y="90" width="25.97" height="29.43" as="geometry" />
+          <mxGeometry x="2537.5" y="77.88999999999999" width="25.97" height="29.43" as="geometry" />
         </mxCell>
         <mxCell id="9WSbSmO5Lrjr3bgkUgIT-24" value="Subnet **.**.**.**/27" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;labelBorderColor=default;labelBackgroundColor=none;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1912.78" y="101.8900000000001" width="195" height="20" as="geometry" />
@@ -294,14 +294,14 @@
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-4" target="4JgVIXBhFd2OKzmGIWJK-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jba7oKKI64xrGn0f97RL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-4" target="9WSbSmO5Lrjr3bgkUgIT-69">
+        <mxCell id="jba7oKKI64xrGn0f97RL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-8" target="9WSbSmO5Lrjr3bgkUgIT-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2350" y="344" />
+              <mxPoint x="2493" y="344" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JgVIXBhFd2OKzmGIWJK-4" value="Load to SnowFlake" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
+        <mxCell id="4JgVIXBhFd2OKzmGIWJK-4" value="ABC Checks" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2300" y="198.35000000000014" width="100" height="42.27" as="geometry" />
         </mxCell>
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-6" target="4JgVIXBhFd2OKzmGIWJK-1" edge="1">
@@ -318,9 +318,6 @@
         <mxCell id="4JgVIXBhFd2OKzmGIWJK-6" value="Logging" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1610.0000000000002" y="198.3500000000001" width="90" height="42.27" as="geometry" />
         </mxCell>
-        <mxCell id="4JgVIXBhFd2OKzmGIWJK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-8" target="4JgVIXBhFd2OKzmGIWJK-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jba7oKKI64xrGn0f97RL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-2" target="Df-2wTdwd4sgTRfSAeIq-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -329,11 +326,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JgVIXBhFd2OKzmGIWJK-8" value="RAW" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
+        <mxCell id="4JgVIXBhFd2OKzmGIWJK-8" value="Load to Snowflake" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2442.9800000000005" y="198.35000000000014" width="100" height="42.27" as="geometry" />
-        </mxCell>
-        <mxCell id="4JgVIXBhFd2OKzmGIWJK-10" value="ABC Check" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
-          <mxGeometry x="2578.7599999999998" y="198.35000000000014" width="100" height="42.27" as="geometry" />
         </mxCell>
         <mxCell id="Df-2wTdwd4sgTRfSAeIq-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="ZzJFnbDEYP2jmkK8cDso-0" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -675,7 +669,7 @@
             <mxPoint x="2120" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jba7oKKI64xrGn0f97RL-24" value="ABC Check" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
+        <mxCell id="jba7oKKI64xrGn0f97RL-24" value="Schema&amp;nbsp; Check" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
           <mxGeometry x="2149.5" y="198.35000000000014" width="100" height="42.27" as="geometry" />
         </mxCell>
         <mxCell id="jba7oKKI64xrGn0f97RL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="4JgVIXBhFd2OKzmGIWJK-1" target="jba7oKKI64xrGn0f97RL-23">
