@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T13:58:16.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ftAE2J_ffA6_YeWIsTvJ" version="21.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-30T05:35:20.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="T-g3N5joZUFhKqvBEGQJ" version="21.1.2" type="github" pages="3">
   <diagram name="Copy of Data Ingestion Framework" id="mxRd2q-sVzvZhyS-ZOuo">
-    <mxGraphModel dx="4300" dy="5130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="4215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <object label="" id="9WSbSmO5Lrjr3bgkUgIT-0">
           <mxCell />
@@ -449,13 +449,13 @@
         <mxCell id="Df-2wTdwd4sgTRfSAeIq-14" value="WKD" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=9;image=img/lib/azure2/general/Folder_Blank.svg;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#2072B8;strokeColor=none;shadow=0;dashed=0;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2319.26" y="-1537.5" width="46.21" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="Df-2wTdwd4sgTRfSAeIq-24" value="SOR-X" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=9;image=img/lib/azure2/general/Folder_Blank.svg;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#2072B8;strokeColor=none;shadow=0;dashed=0;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
+        <mxCell id="Df-2wTdwd4sgTRfSAeIq-24" value="WKD" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=9;image=img/lib/azure2/general/Folder_Blank.svg;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#2072B8;strokeColor=none;shadow=0;dashed=0;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1888.5500000000002" y="-1456.6699999999998" width="46" height="37.33" as="geometry" />
         </mxCell>
         <mxCell id="Df-2wTdwd4sgTRfSAeIq-26" value="CATrigger" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=9;image=img/lib/azure2/general/Folder_Blank.svg;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#2072B8;strokeColor=none;shadow=0;dashed=0;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1888.5500000000002" y="-1520.38" width="46.21" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="xsDmz9enCZMCGkjwzvm1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="Df-2wTdwd4sgTRfSAeIq-27" target="xsDmz9enCZMCGkjwzvm1-0">
+        <mxCell id="xsDmz9enCZMCGkjwzvm1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="9WSbSmO5Lrjr3bgkUgIT-1" source="Df-2wTdwd4sgTRfSAeIq-27" target="xsDmz9enCZMCGkjwzvm1-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1853" y="-1371" />
@@ -741,7 +741,7 @@
         <mxCell id="evh5HS9qlk0fUSatcOK5-0" value="Strike File Validation" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="2407.67" y="-2161.66" width="100" height="42.27" as="geometry" />
         </mxCell>
-        <mxCell id="xsDmz9enCZMCGkjwzvm1-0" value="SOR-X" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=9;image=img/lib/azure2/general/Folder_Blank.svg;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#2072B8;strokeColor=none;shadow=0;dashed=0;labelBackgroundColor=#E6E6E6;" vertex="1" parent="9WSbSmO5Lrjr3bgkUgIT-1">
+        <mxCell id="xsDmz9enCZMCGkjwzvm1-0" value="SOR-X" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=9;image=img/lib/azure2/general/Folder_Blank.svg;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#2072B8;strokeColor=none;shadow=0;dashed=0;labelBackgroundColor=#E6E6E6;" parent="9WSbSmO5Lrjr3bgkUgIT-1" vertex="1">
           <mxGeometry x="1888.5500000000002" y="-1389.6699999999998" width="46" height="37.33" as="geometry" />
         </mxCell>
       </root>
