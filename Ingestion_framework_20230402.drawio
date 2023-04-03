@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T12:50:18.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LJObCsp8GMzw-_yQkEN9" version="21.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-03T12:56:43.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mdruNteI2_kMQlwLStMg" version="21.1.2" type="github" pages="7">
   <diagram name="Data Ingestion Framework_Flat_File" id="mxRd2q-sVzvZhyS-ZOuo">
     <mxGraphModel dx="1750" dy="4215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2417,7 +2417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Databricks Job Invoke option 1" id="-0YS3V77_c4VOQdzQUey">
-    <mxGraphModel dx="-1675" dy="4858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1550" dy="4923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vJHVOdDAeO39EbENuE5g-0" />
         <mxCell id="vJHVOdDAeO39EbENuE5g-1" parent="vJHVOdDAeO39EbENuE5g-0" />
@@ -2518,7 +2518,7 @@
         <mxCell id="xgVqU1vGmUMcX5XIfS6n-1" value="databricks jobs get --job-id &amp;lt;job_id&amp;gt;" style="rounded=0;html=1;labelBackgroundColor=#E6E6E6;fontSize=11;whiteSpace=wrap;fontStyle=1;align=left;dashed=1;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
           <mxGeometry x="3315.87" y="-3105.43" width="224.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="StFlELVvc_RsLhGBifa--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vJHVOdDAeO39EbENuE5g-1" source="xgVqU1vGmUMcX5XIfS6n-2" target="1lHWTyqhmMhoZHCUlkeF-16">
+        <mxCell id="StFlELVvc_RsLhGBifa--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.005;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vJHVOdDAeO39EbENuE5g-1" source="1lHWTyqhmMhoZHCUlkeF-16" target="xgVqU1vGmUMcX5XIfS6n-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xgVqU1vGmUMcX5XIfS6n-2" value="databricks runs get --run-id &amp;lt;run_id&amp;gt;" style="rounded=0;html=1;labelBackgroundColor=#E6E6E6;fontSize=11;whiteSpace=wrap;fontStyle=1;align=left;dashed=1;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
@@ -2548,23 +2548,29 @@
         <mxCell id="FBX3MNB4CE02NN4aYXMS-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fillStyle=hatch;strokeColor=#a91414;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
           <mxGeometry x="3680" y="-3080" width="26.89" height="26.89" as="geometry" />
         </mxCell>
-        <mxCell id="StFlELVvc_RsLhGBifa--0" value="&lt;b&gt;&lt;u&gt;REST API:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;To run a Databricks job from Automic using the REST API, send an HTTP POST request to the /jobs/runs/submit endpoint with the appropriate job ID and parameters." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=#CCCCCC;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
-          <mxGeometry x="2680" y="-2588.5" width="270" height="72" as="geometry" />
+        <mxCell id="StFlELVvc_RsLhGBifa--0" value="&lt;u style=&quot;font-weight: bold;&quot;&gt;Databrick Job run:&lt;br&gt;&lt;/u&gt;&lt;br&gt;&lt;b&gt;Request:&amp;nbsp;databricks jobs run-now --job-id &amp;lt;job_id&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Response:&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;{&amp;nbsp;&lt;/b&gt;&lt;b&gt;&quot;run_id&quot;: 122,&lt;/b&gt;&lt;b&gt;&amp;nbsp;&quot;number_in_job&quot;: 1&lt;/b&gt;&lt;b&gt;}&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=#CCCCCC;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
+          <mxGeometry x="2680" y="-2567.4500000000003" width="270" height="72" as="geometry" />
         </mxCell>
         <mxCell id="StFlELVvc_RsLhGBifa--1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fillStyle=hatch;strokeColor=#a91414;fontSize=17;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
-          <mxGeometry x="2630" y="-2676.5" width="29.9" height="29.9" as="geometry" />
+          <mxGeometry x="2630" y="-2680" width="29.9" height="29.9" as="geometry" />
         </mxCell>
-        <mxCell id="StFlELVvc_RsLhGBifa--2" value="&lt;u style=&quot;&quot;&gt;&lt;b&gt;Get Metadata Job -&amp;nbsp;&lt;br&gt;&lt;br&gt;Request - {job-id: &amp;lt;job_id&amp;gt;}&lt;br&gt;&lt;br&gt;Response - {&quot;job_id&quot;: 246,&quot;name&quot;: &quot;my-job&quot;,&quot;existing_cluster_id&quot;: &quot;1234-567890-reef123&quot;,&quot;created_time&quot;: 1620163107742}&lt;/b&gt;&lt;br&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=#CCCCCC;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
+        <mxCell id="StFlELVvc_RsLhGBifa--2" value="&lt;div style=&quot;&quot;&gt;&lt;u&gt;&lt;b&gt;Get Metadata Job -&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;u style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: bold;&quot;&gt;&lt;u style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;Request - {job-id: &amp;lt;job_id&amp;gt;}&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;&quot;&gt;&lt;u style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;Response - {&quot;job_id&quot;: 246,&quot;name&quot;: &quot;my-job&quot;,&quot;existing_cluster_id&quot;: &quot;1234-567890-reef123&quot;,&quot;created_time&quot;: 1620163107742}&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=#CCCCCC;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
           <mxGeometry x="2680" y="-2680" width="270" height="72" as="geometry" />
         </mxCell>
         <mxCell id="StFlELVvc_RsLhGBifa--3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fillStyle=hatch;strokeColor=#a91414;fontSize=17;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
-          <mxGeometry x="2630" y="-2588.5" width="29.9" height="29.9" as="geometry" />
+          <mxGeometry x="2630" y="-2567.45" width="29.9" height="29.9" as="geometry" />
         </mxCell>
         <mxCell id="StFlELVvc_RsLhGBifa--5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fillStyle=hatch;strokeColor=#a91414;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
           <mxGeometry x="3680" y="-3000" width="26.89" height="26.89" as="geometry" />
         </mxCell>
         <mxCell id="StFlELVvc_RsLhGBifa--8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fillStyle=hatch;strokeColor=#a91414;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
           <mxGeometry x="3680" y="-3120.75" width="26.89" height="26.89" as="geometry" />
+        </mxCell>
+        <mxCell id="StFlELVvc_RsLhGBifa--10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fillStyle=hatch;strokeColor=#a91414;fontSize=17;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
+          <mxGeometry x="2630" y="-2450" width="29.9" height="29.9" as="geometry" />
+        </mxCell>
+        <mxCell id="StFlELVvc_RsLhGBifa--11" value="&lt;u style=&quot;font-weight: bold;&quot;&gt;Databrick Job run results:&lt;br&gt;&lt;/u&gt;&lt;br&gt;&lt;b&gt;Request:&amp;nbsp;databricks runs get --run-id &amp;lt;Run-id&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Response:&amp;nbsp;{&quot;job_id&quot;: 239,&quot;run_id&quot;: 119,&quot;result_state&quot;: &quot;SUCCESS&quot;,&quot;execution_duration&quot;: 41000}&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=#CCCCCC;" vertex="1" parent="vJHVOdDAeO39EbENuE5g-1">
+          <mxGeometry x="2680" y="-2450.0000000000005" width="270" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
