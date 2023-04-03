@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T13:00:33.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Sc3UCYWD6Ug9ys1OypTG" version="21.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-03T13:02:44.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jyiXYedQUc0ahg7XqFUy" version="21.1.4" type="github" pages="7">
   <diagram name="Data Ingestion Framework_Flat_File" id="mxRd2q-sVzvZhyS-ZOuo">
     <mxGraphModel dx="3348" dy="4828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2698,6 +2698,9 @@
           <mxGeometry x="207" width="103" height="80" as="geometry">
             <mxRectangle width="103" height="80" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-tio00-ST9MsIQxAbop1-0" value="Express Route" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.express_route;pointerEvents=1;" vertex="1" parent="Ycd82dBqtzjKl3WnvHZn-1">
+          <mxGeometry x="3470" y="-4130.049999999999" width="30.05" height="24.29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
