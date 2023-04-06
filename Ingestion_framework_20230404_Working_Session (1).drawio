@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T09:56:12.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LaVVy5XTdRQ3LGs5IGnj" version="21.1.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-06T10:00:18.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="44_42OFVYmftU6nZ8UDQ" version="21.1.4" type="github" pages="8">
   <diagram name="Data Ingestion Framework_Flat_File" id="mxRd2q-sVzvZhyS-ZOuo">
     <mxGraphModel dx="2868" dy="4828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -3057,7 +3057,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Azure Functions Data Ingestion Framework_Flat_File" id="irxq4Y9nVL36ue7KsfgX">
-    <mxGraphModel dx="2206" dy="4475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="4391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <object label="" id="L7kI2n2abA9gGQwHk5sw-0">
           <mxCell />
@@ -3073,7 +3073,7 @@
           <mxGeometry x="790" y="-2968" width="220" height="529" as="geometry" />
         </mxCell>
         <mxCell id="L7kI2n2abA9gGQwHk5sw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;fontSize=13;" vertex="1" parent="L7kI2n2abA9gGQwHk5sw-1">
-          <mxGeometry x="2046.89" y="-3060" width="1460" height="630" as="geometry" />
+          <mxGeometry x="2046.89" y="-3060" width="1173.11" height="630" as="geometry" />
         </mxCell>
         <mxCell id="L7kI2n2abA9gGQwHk5sw-7" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;fontSize=13;" vertex="1" parent="L7kI2n2abA9gGQwHk5sw-1">
           <mxGeometry x="1306.8899999999996" y="-2960" width="310" height="162" as="geometry" />
@@ -3159,9 +3159,6 @@
         </mxCell>
         <mxCell id="L7kI2n2abA9gGQwHk5sw-31" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;fontSize=13;" vertex="1" parent="L7kI2n2abA9gGQwHk5sw-1">
           <mxGeometry x="2320" y="-2599.5" width="224.55" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="L7kI2n2abA9gGQwHk5sw-32" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;labelBackgroundColor=#B1FF8A;" vertex="1" parent="L7kI2n2abA9gGQwHk5sw-1">
-          <mxGeometry x="3460" y="-2471" width="34.78" height="32" as="geometry" />
         </mxCell>
         <mxCell id="L7kI2n2abA9gGQwHk5sw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;" edge="1" parent="L7kI2n2abA9gGQwHk5sw-1" source="L7kI2n2abA9gGQwHk5sw-159" target="L7kI2n2abA9gGQwHk5sw-190">
           <mxGeometry relative="1" as="geometry" />
